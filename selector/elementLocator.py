@@ -7,20 +7,16 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import getpass
+from basics.start_driver import start_driver
 
 password = getpass.getpass("Enter your password: ")
 
 class LoginAutomation:
 
     def login_with_button_click(self):
-        # Chrome options
-        chrome_options = cmOptions()
-        chrome_options.add_argument("--no-sandbox")
-        chrome_options.add_argument("--disable-dev-shm-usage")
 
         # Initialize driver
-        driver = webdriver.Chrome(service=cmService(ChromeDriverManager().install()), options=chrome_options)
-
+        driver = start_driver()
         try:
             # Navigate to your login page
             driver.get("https://portal.mut.ac.ke")
@@ -37,8 +33,12 @@ class LoginAutomation:
                 )
                 login_button.click()
                 print("Login button clicked using exact class combination")
+                driver.get("https://portal.mut.ac.ke/Academic/Reports?isresult=true")
+                current_url = driver.current_url
+                print(f"navigating to url: {current_url}")
             except Exception as e:
                 print(f"Method 1 failed: {e}")
+                driver.close()
 
             # Wait for login to complete and verify
             self.verify_login_success(driver)
@@ -53,6 +53,10 @@ class LoginAutomation:
             "exampleFormControlInput1": "sc200/0601/2022",
             "password": password,
         }
+
+        WebDriverWait(driver, 10).until(
+            EC.element_to_be_clickable((By.ID, "RememberMe"))
+        ).click()
 
         for field_id, value in credentials.items():
             try:
@@ -81,8 +85,8 @@ class LoginAutomation:
                         (By.CSS_SELECTOR, ".logout, .profile, .user-avatar, [href*='logout']"))
                 )
                 print("Login successful - User elements found")
-            except:
-                print("Login status uncertain")
+            except Exception as e:
+                print(f"Login status uncertain: {e}")
 
 
 # Usage examples:
@@ -91,5 +95,6 @@ login_auto = LoginAutomation()
 # Method 1: Simple login with button click
 login_auto.login_with_button_click()
 
-login_auto.alternative_login_methods()
-login_auto.smart_login_detection()
+# login_auto.alternative_login_methods()
+# login_auto.smart_login_detection()
+# login_auto.verify_login_success()
