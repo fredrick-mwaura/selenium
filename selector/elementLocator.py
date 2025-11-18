@@ -91,5 +91,5 @@ login_auto = LoginAutomation()
 # Method 1: Simple login with button click
 login_auto.login_with_button_click()
 
-# login_auto.alternative_login_methods()
-# login_auto.smart_login_detection()
+login_auto.alternative_login_methods()
+login_auto.smart_login_detection()
