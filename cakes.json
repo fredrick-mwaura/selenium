@@ -1,0 +1,1074 @@
+// to be use in the website demo
+[
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/3-tier-fruit,-fondant,-wedding-cake.webp",
+    "alt_text": "3 tier fruit, fondant, wedding cake by - Nillavee Cakes And Pastries",
+    "cake_name": "3 tier fruit, fondant, wedding cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "3_tier_fruit_fondant_wedding_cake_by_-_1.jpg",
+    "local_path": "images/3_tier_fruit_fondant_wedding_cake_by_-_1.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/3-tier-blueberry-lemon-and-raspberry-wedding-cake-0.webp",
+    "alt_text": "3-tier Blueberry, Lemon & Raspberry wedding cake by - Nillavee Cakes And Pastries",
+    "cake_name": "3-tier Blueberry, Lemon & Raspberry wedding cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "3-tier_Blueberry_Lemon__Raspberry_wedd_2.jpg",
+    "local_path": "images/3-tier_Blueberry_Lemon__Raspberry_wedd_2.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/3-tier-blueberry-lemon-raspberry-wedding-cake-with-3-side-cakes-0.webp",
+    "alt_text": "3-tier Blueberry, Lemon & Raspberry wedding cake with 3 Side Cakes by - Nillavee Cakes And Pastries",
+    "cake_name": "3-tier Blueberry, Lemon & Raspberry wedding cake with 3 Side Cakes by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "3-tier_Blueberry_Lemon__Raspberry_wedd_3.jpg",
+    "local_path": "images/3-tier_Blueberry_Lemon__Raspberry_wedd_3.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/3-tier-chocolate-orange-raspberry-wedding-cake-with-3-side-cakes.-0.webp",
+    "alt_text": "3-tier Chocolate, Orange & Raspberry wedding cake with 3 side cakes by - Nillavee Cakes And Pastries",
+    "cake_name": "3-tier Chocolate, Orange & Raspberry wedding cake with 3 side cakes by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "3-tier_Chocolate_Orange__Raspberry_wed_4.jpg",
+    "local_path": "images/3-tier_Chocolate_Orange__Raspberry_wed_4.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/3-tier-classic-vannilla-orange-and-strawberry-wedding-cake-0.webp",
+    "alt_text": "3-tier Classic vanilla, Orange & strawberry wedding Cake by - Nillavee Cakes And Pastries",
+    "cake_name": "3-tier Classic vanilla, Orange & strawberry wedding Cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "3-tier_Classic_vanilla_Orange__strawbe_5.jpg",
+    "local_path": "images/3-tier_Classic_vanilla_Orange__strawbe_5.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/3-tier-red-velvet-lemon-and-raspberry-wedding-cake-0.webp",
+    "alt_text": "3-tier Red velvet, Lemon & Raspberry wedding cake by - Nillavee Cakes And Pastries",
+    "cake_name": "3-tier Red velvet, Lemon & Raspberry wedding cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "3-tier_Red_velvet_Lemon__Raspberry_wed_6.jpg",
+    "local_path": "images/3-tier_Red_velvet_Lemon__Raspberry_wed_6.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/4-tier-orange-poppy-blueberry-lemon-strawberry-wedding-cake-0.webp",
+    "alt_text": "4-tier Orange poppy, Blueberry, Lemon & Strawberry wedding cake by - Nillavee Cakes And Pastries",
+    "cake_name": "4-tier Orange poppy, Blueberry, Lemon & Strawberry wedding cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "4-tier_Orange_poppy_Blueberry_Lemon_7.jpg",
+    "local_path": "images/4-tier_Orange_poppy_Blueberry_Lemon_7.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/4-tier-raspberry-blueberry-lemon-strawberry-wedding-cake-0.webp",
+    "alt_text": "4-tier Raspberry, Blueberry, Lemon & Strawberry wedding cake by - Nillavee Cakes And Pastries",
+    "cake_name": "4-tier Raspberry, Blueberry, Lemon & Strawberry wedding cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "4-tier_Raspberry_Blueberry_Lemon__Str_8.jpg",
+    "local_path": "images/4-tier_Raspberry_Blueberry_Lemon__Str_8.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/4-tier-red-velvet-blueberry-lemon-raspberry-wedding-cake-0.webp",
+    "alt_text": "4-tier Red velvet, Blueberry, Lemon, & Raspberry wedding cake by - Nillavee Cakes And Pastries",
+    "cake_name": "4-tier Red velvet, Blueberry, Lemon, & Raspberry wedding cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "4-tier_Red_velvet_Blueberry_Lemon__R_9.jpg",
+    "local_path": "images/4-tier_Red_velvet_Blueberry_Lemon__R_9.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/4-tier-rich-fruit-cake-vanilla-lemon-poppy-orange-wedding-cake-0.webp",
+    "alt_text": "4-tier Rich fruit cake, Vanilla, Lemon poppy & Orange wedding cake by - Nillavee Cakes And Pastries",
+    "cake_name": "4-tier Rich fruit cake, Vanilla, Lemon poppy & Orange wedding cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "4-tier_Rich_fruit_cake_Vanilla_Lemon_p_10.jpg",
+    "local_path": "images/4-tier_Rich_fruit_cake_Vanilla_Lemon_p_10.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/4-tier-vanilla-blueberry-lemon-raspberry-wedding-cake-0.webp",
+    "alt_text": "4-tier Vanilla, Blueberry, Lemon & Raspberry wedding cake by - Nillavee Cakes And Pastries",
+    "cake_name": "4-tier Vanilla, Blueberry, Lemon & Raspberry wedding cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "4-tier_Vanilla_Blueberry_Lemon__Raspb_11.jpg",
+    "local_path": "images/4-tier_Vanilla_Blueberry_Lemon__Raspb_11.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Angel-food-cake.jpg",
+    "alt_text": "Angel food cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Angel food cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Angel_food_cake_by_-_Nillavee_Cakes_And_12.jpg",
+    "local_path": "images/Angel_food_cake_by_-_Nillavee_Cakes_And_12.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Baby-Shower-Blueberry-Cake-updated-1737018826.jpg",
+    "alt_text": "Baby Shower Blueberry Cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Baby Shower Blueberry Cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Baby_Shower_Blueberry_Cake_by_-_Nillavee_13.jpg",
+    "local_path": "images/Baby_Shower_Blueberry_Cake_by_-_Nillavee_13.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Baby-shark-cartoon-character-cake.png",
+    "alt_text": "Baby shark cartoon character cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Baby shark cartoon character cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Baby_shark_cartoon_character_cake_by_-_N_14.png",
+    "local_path": "images/Baby_shark_cartoon_character_cake_by_-_N_14.png"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/baileys-white-chocolate-cake.37QZoGVWhite-Chocolate-Baileys-Cake",
+    "alt_text": "Bailey's White Chocolate Cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Bailey's White Chocolate Cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Baileys_White_Chocolate_Cake_by_-_Nilla_15.jpg",
+    "local_path": "images/Baileys_White_Chocolate_Cake_by_-_Nilla_15.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Barbie-doll-cake.jpeg",
+    "alt_text": "Barbie doll cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Barbie doll cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Barbie_doll_cake_by_-_Nillavee_Cakes_And_16.jpeg",
+    "local_path": "images/Barbie_doll_cake_by_-_Nillavee_Cakes_And_16.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Bebefinn-cartoon-character-cake.jpeg",
+    "alt_text": "Bebefinn cartoon character cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Bebefinn cartoon character cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Bebefinn_cartoon_character_cake_by_-_Nil_17.jpeg",
+    "local_path": "images/Bebefinn_cartoon_character_cake_by_-_Nil_17.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Black-currant-cake.jpeg",
+    "alt_text": "Blackcurrant cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Blackcurrant cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Blackcurrant_cake_by_-_Nillavee_Cakes_An_18.jpeg",
+    "local_path": "images/Blackcurrant_cake_by_-_Nillavee_Cakes_An_18.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Blueberry-Lemon-Cake-updated-1737024110.webp",
+    "alt_text": "Blueberry Lemon Cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Blueberry Lemon Cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Blueberry_Lemon_Cake_by_-_Nillavee_Cakes_19.jpg",
+    "local_path": "images/Blueberry_Lemon_Cake_by_-_Nillavee_Cakes_19.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/blueberry-pp2-graduation-cake-0.webp",
+    "alt_text": "Blueberry PP2 Graduation Cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Blueberry PP2 Graduation Cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Blueberry_PP2_Graduation_Cake_by_-_Nilla_20.jpg",
+    "local_path": "images/Blueberry_PP2_Graduation_Cake_by_-_Nilla_20.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Blueberry-Sophia-the-first-cake.jpeg",
+    "alt_text": "Blueberry Sophia the first cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Blueberry Sophia the first cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Blueberry_Sophia_the_first_cake_by_-_Nil_21.jpeg",
+    "local_path": "images/Blueberry_Sophia_the_first_cake_by_-_Nil_21.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Blueberry-flavoured-cake.jpeg",
+    "alt_text": "Blueberry flavoured cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Blueberry flavoured cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Blueberry_flavoured_cake_by_-_Nillavee_C_22.jpeg",
+    "local_path": "images/Blueberry_flavoured_cake_by_-_Nillavee_C_22.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/bubblegum-pp2-graduation-cake-0.webp",
+    "alt_text": "Bubblegum PP2 Graduation Cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Bubblegum PP2 Graduation Cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Bubblegum_PP2_Graduation_Cake_by_-_Nilla_23.jpg",
+    "local_path": "images/Bubblegum_PP2_Graduation_Cake_by_-_Nilla_23.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Bubblegum-graduation-cake.jpeg",
+    "alt_text": "Bubblegum graduation cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Bubblegum graduation cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Bubblegum_graduation_cake_by_-_Nillavee_24.jpeg",
+    "local_path": "images/Bubblegum_graduation_cake_by_-_Nillavee_24.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Orange-chiffon,-blueberry-Chelsea-themed-cake.jpeg",
+    "alt_text": "Buttercream Chelsea Cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Buttercream Chelsea Cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Buttercream_Chelsea_Cake_by_-_Nillavee_C_25.jpeg",
+    "local_path": "images/Buttercream_Chelsea_Cake_by_-_Nillavee_C_25.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Caramel-coffee-cake-updated-1721368090.webp",
+    "alt_text": "Caramel coffee cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Caramel coffee cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Caramel_coffee_cake_by_-_Nillavee_Cakes_26.jpg",
+    "local_path": "images/Caramel_coffee_cake_by_-_Nillavee_Cakes_26.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Chocolate-Mint-Cake-updated-1729581175.webp",
+    "alt_text": "Chocolate Mint Cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Chocolate Mint Cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Chocolate_Mint_Cake_by_-_Nillavee_Cakes_27.jpg",
+    "local_path": "images/Chocolate_Mint_Cake_by_-_Nillavee_Cakes_27.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Chocolate-Victoria-Cake.37QZoGVChocolate-Victoria%20cake",
+    "alt_text": "Chocolate Victoria Cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Chocolate Victoria Cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Chocolate_Victoria_Cake_by_-_Nillavee_Ca_28.jpg",
+    "local_path": "images/Chocolate_Victoria_Cake_by_-_Nillavee_Ca_28.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Chocolate-mint-cake-with-sphere-balls-toppings-updated-1729581910.jpg",
+    "alt_text": "Chocolate mint cake with sphere balls toppings by - Nillavee Cakes And Pastries",
+    "cake_name": "Chocolate mint cake with sphere balls toppings by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Chocolate_mint_cake_with_sphere_balls_to_29.jpg",
+    "local_path": "images/Chocolate_mint_cake_with_sphere_balls_to_29.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Christmas-fruit-cake.jpeg",
+    "alt_text": "Christmas fruit cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Christmas fruit cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Christmas_fruit_cake_by_-_Nillavee_Cakes_30.jpeg",
+    "local_path": "images/Christmas_fruit_cake_by_-_Nillavee_Cakes_30.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Cocomelon-cartoon-character.png",
+    "alt_text": "Cocomelon cartoon character by - Nillavee Cakes And Pastries",
+    "cake_name": "Cocomelon cartoon character by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Cocomelon_cartoon_character_by_-_Nillave_31.png",
+    "local_path": "images/Cocomelon_cartoon_character_by_-_Nillave_31.png"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Coconut-Cheesecake.37QZoGVcoconut-cheesecake",
+    "alt_text": "Coconut Cheesecake by - Nillavee Cakes And Pastries",
+    "cake_name": "Coconut Cheesecake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Coconut_Cheesecake_by_-_Nillavee_Cakes_A_32.jpg",
+    "local_path": "images/Coconut_Cheesecake_by_-_Nillavee_Cakes_A_32.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Elsa-cake.jpeg",
+    "alt_text": "Elsa cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Elsa cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Elsa_cake_by_-_Nillavee_Cakes_And_Pastri_33.jpeg",
+    "local_path": "images/Elsa_cake_by_-_Nillavee_Cakes_And_Pastri_33.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Heart-shaped-chocolate-cake.webp",
+    "alt_text": "Heart shaped chocolate cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Heart shaped chocolate cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Heart_shaped_chocolate_cake_by_-_Nillave_34.jpg",
+    "local_path": "images/Heart_shaped_chocolate_cake_by_-_Nillave_34.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Lemon-poppy-cake.png",
+    "alt_text": "Lemon poppy cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Lemon poppy cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Lemon_poppy_cake_by_-_Nillavee_Cakes_And_35.png",
+    "local_path": "images/Lemon_poppy_cake_by_-_Nillavee_Cakes_And_35.png"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Mickey-mouse-cake.jpeg",
+    "alt_text": "Mickey mouse cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Mickey mouse cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Mickey_mouse_cake_by_-_Nillavee_Cakes_An_36.jpeg",
+    "local_path": "images/Mickey_mouse_cake_by_-_Nillavee_Cakes_An_36.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/one-tier-wild-berry-fantasy-wedding-cake-0.webp",
+    "alt_text": "One-Tier Wild Berry Fantasy Wedding Cake by - Nillavee Cakes And Pastries",
+    "cake_name": "One-Tier Wild Berry Fantasy Wedding Cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "One-Tier_Wild_Berry_Fantasy_Wedding_Cake_37.jpg",
+    "local_path": "images/One-Tier_Wild_Berry_Fantasy_Wedding_Cake_37.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/one-tier-rich-chocolate-wedding-cake-0.webp",
+    "alt_text": "One-tier Rich Chocolate Wedding Cake by - Nillavee Cakes And Pastries",
+    "cake_name": "One-tier Rich Chocolate Wedding Cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "One-tier_Rich_Chocolate_Wedding_Cake_by_38.jpg",
+    "local_path": "images/One-tier_Rich_Chocolate_Wedding_Cake_by_38.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Orange-cake.jpeg",
+    "alt_text": "Orange cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Orange cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Orange_cake_by_-_Nillavee_Cakes_And_Past_39.jpeg",
+    "local_path": "images/Orange_cake_by_-_Nillavee_Cakes_And_Past_39.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/orange-chiffon-rose-cake.webp",
+    "alt_text": "Orange chiffon rose cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Orange chiffon rose cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Orange_chiffon_rose_cake_by_-_Nillavee_C_40.jpg",
+    "local_path": "images/Orange_chiffon_rose_cake_by_-_Nillavee_C_40.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Paw-Patrol-Cake.jpg",
+    "alt_text": "Paw Patrol Cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Paw Patrol Cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Paw_Patrol_Cake_by_-_Nillavee_Cakes_And_41.jpg",
+    "local_path": "images/Paw_Patrol_Cake_by_-_Nillavee_Cakes_And_41.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Peanut-butter-cheesecake.webp",
+    "alt_text": "Peanut butter cheesecake by - Nillavee Cakes And Pastries",
+    "cake_name": "Peanut butter cheesecake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Peanut_butter_cheesecake_by_-_Nillavee_C_42.jpg",
+    "local_path": "images/Peanut_butter_cheesecake_by_-_Nillavee_C_42.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Pina-colada-chocolate-oreo-cake.jpg",
+    "alt_text": "Pina colada chocolate oreo cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Pina colada chocolate oreo cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Pina_colada_chocolate_oreo_cake_by_-_Nil_43.jpg",
+    "local_path": "images/Pina_colada_chocolate_oreo_cake_by_-_Nil_43.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/pinacolada-pp2-graduation-cake-0.webp",
+    "alt_text": "Pinacolada PP2 Graduation Cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Pinacolada PP2 Graduation Cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Pinacolada_PP2_Graduation_Cake_by_-_Nill_44.jpg",
+    "local_path": "images/Pinacolada_PP2_Graduation_Cake_by_-_Nill_44.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Rainbow-cake.jpg",
+    "alt_text": "Rainbow cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Rainbow cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Rainbow_cake_by_-_Nillavee_Cakes_And_Pas_45.jpg",
+    "local_path": "images/Rainbow_cake_by_-_Nillavee_Cakes_And_Pas_45.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Rich-Blueberry-Cake-updated-1737023235.jpg",
+    "alt_text": "Rich Blueberry Cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Rich Blueberry Cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Rich_Blueberry_Cake_by_-_Nillavee_Cakes_46.jpg",
+    "local_path": "images/Rich_Blueberry_Cake_by_-_Nillavee_Cakes_46.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/chocolate-fudge-cake.jpg",
+    "alt_text": "Rich Chocolate Fudge Cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Rich Chocolate Fudge Cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Rich_Chocolate_Fudge_Cake_by_-_Nillavee_47.jpg",
+    "local_path": "images/Rich_Chocolate_Fudge_Cake_by_-_Nillavee_47.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/fondant-spiderman-themed-cake.jpg",
+    "alt_text": "Spiderman themed cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Spiderman themed cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Spiderman_themed_cake_by_-_Nillavee_Cake_48.jpg",
+    "local_path": "images/Spiderman_themed_cake_by_-_Nillavee_Cake_48.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/strawberry-pp2-themed-graduation-0.webp",
+    "alt_text": "Strawberry pp2 themed graduation by - Nillavee Cakes And Pastries",
+    "cake_name": "Strawberry pp2 themed graduation by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Strawberry_pp2_themed_graduation_by_-_Ni_49.jpg",
+    "local_path": "images/Strawberry_pp2_themed_graduation_by_-_Ni_49.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/sweet-raspberry-wedding-cake-package-0.webp",
+    "alt_text": "Sweet Raspberry Wedding Cake Package by - Nillavee Cakes And Pastries",
+    "cake_name": "Sweet Raspberry Wedding Cake Package by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Sweet_Raspberry_Wedding_Cake_Package_by_50.jpg",
+    "local_path": "images/Sweet_Raspberry_Wedding_Cake_Package_by_50.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/two-tier-vanilla-strawberry-whipping-cream-wedding-cake.webp",
+    "alt_text": "Two tier Vanilla Strawberry whipping cream wedding cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Two tier Vanilla Strawberry whipping cream wedding cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Two_tier_Vanilla_Strawberry_whipping_cre_51.jpg",
+    "local_path": "images/Two_tier_Vanilla_Strawberry_whipping_cre_51.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/two-tier-chocolate-orange-wedding-cake-0.webp",
+    "alt_text": "Two-Tier Chocolate Orange Wedding Cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Two-Tier Chocolate Orange Wedding Cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Two-Tier_Chocolate_Orange_Wedding_Cake_b_52.jpg",
+    "local_path": "images/Two-Tier_Chocolate_Orange_Wedding_Cake_b_52.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/two-tier-lemon-blueberry-wedding-cake-0.webp",
+    "alt_text": "Two-Tier Lemon Blueberry Wedding Cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Two-Tier Lemon Blueberry Wedding Cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Two-Tier_Lemon_Blueberry_Wedding_Cake_by_53.jpg",
+    "local_path": "images/Two-Tier_Lemon_Blueberry_Wedding_Cake_by_53.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Vanilla-and-chocolate-flavoured-capcake.jpg",
+    "alt_text": "Vanilla and chocolate flavoured capcake by - Nillavee Cakes And Pastries",
+    "cake_name": "Vanilla and chocolate flavoured capcake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Vanilla_and_chocolate_flavoured_capcake_54.jpg",
+    "local_path": "images/Vanilla_and_chocolate_flavoured_capcake_54.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/vanilla-pp2-graduation-cake-with-edible-alphabet-0.webp",
+    "alt_text": "Vanilla pp2 graduation cake with edible alphabet by - Nillavee Cakes And Pastries",
+    "cake_name": "Vanilla pp2 graduation cake with edible alphabet by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Vanilla_pp2_graduation_cake_with_edible_55.jpg",
+    "local_path": "images/Vanilla_pp2_graduation_cake_with_edible_55.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/Vanilla-strawberry-cake.jpeg",
+    "alt_text": "Vanilla strawberry cake by - Nillavee Cakes And Pastries",
+    "cake_name": "Vanilla strawberry cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "Vanilla_strawberry_cake_by_-_Nillavee_Ca_56.jpeg",
+    "local_path": "images/Vanilla_strawberry_cake_by_-_Nillavee_Ca_56.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/almond-flour-cake.webp",
+    "alt_text": "almond flour cake by - Nillavee Cakes And Pastries",
+    "cake_name": "almond flour cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "almond_flour_cake_by_-_Nillavee_Cakes_An_57.jpg",
+    "local_path": "images/almond_flour_cake_by_-_Nillavee_Cakes_An_57.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/apple-cake.jpg",
+    "alt_text": "apple cake by - Nillavee Cakes And Pastries",
+    "cake_name": "apple cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "apple_cake_by_-_Nillavee_Cakes_And_Pastr_58.jpg",
+    "local_path": "images/apple_cake_by_-_Nillavee_Cakes_And_Pastr_58.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/banana-chocolate-cake-updated-1737033273.jpg",
+    "alt_text": "banana chocolate cake by - Nillavee Cakes And Pastries",
+    "cake_name": "banana chocolate cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "banana_chocolate_cake_by_-_Nillavee_Cake_59.jpg",
+    "local_path": "images/banana_chocolate_cake_by_-_Nillavee_Cake_59.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/banana-chocolate-cake-with-graduation-topper.jpeg",
+    "alt_text": "banana chocolate cake with graduation topper by - Nillavee Cakes And Pastries",
+    "cake_name": "banana chocolate cake with graduation topper by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "banana_chocolate_cake_with_graduation_to_60.jpeg",
+    "local_path": "images/banana_chocolate_cake_with_graduation_to_60.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/black-forest-cake.jpg",
+    "alt_text": "black forest cake by - Nillavee Cakes And Pastries",
+    "cake_name": "black forest cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "black_forest_cake_by_-_Nillavee_Cakes_An_61.jpg",
+    "local_path": "images/black_forest_cake_by_-_Nillavee_Cakes_An_61.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/blackcurrant-cake-with-chocolate-ganache-and-strawberry-topper.jpeg",
+    "alt_text": "blackcurrant cake with chocolate ganache and strawberry topper by - Nillavee Cakes And Pastries",
+    "cake_name": "blackcurrant cake with chocolate ganache and strawberry topper by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "blackcurrant_cake_with_chocolate_ganache_62.jpeg",
+    "local_path": "images/blackcurrant_cake_with_chocolate_ganache_62.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/blueberry-graduation-cake.jpeg",
+    "alt_text": "blueberry graduation cake by - Nillavee Cakes And Pastries",
+    "cake_name": "blueberry graduation cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "blueberry_graduation_cake_by_-_Nillavee_63.jpeg",
+    "local_path": "images/blueberry_graduation_cake_by_-_Nillavee_63.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/bubblegum-cake-updated-1737024899.jpg",
+    "alt_text": "bubblegum cake by - Nillavee Cakes And Pastries",
+    "cake_name": "bubblegum cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "bubblegum_cake_by_-_Nillavee_Cakes_And_P_64.jpg",
+    "local_path": "images/bubblegum_cake_by_-_Nillavee_Cakes_And_P_64.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/bubblegum-strawberry-blippi-customized-cake.jpg",
+    "alt_text": "bubblegum strawberry blippi customized cake by - Nillavee Cakes And Pastries",
+    "cake_name": "bubblegum strawberry blippi customized cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "bubblegum_strawberry_blippi_customized_c_65.jpg",
+    "local_path": "images/bubblegum_strawberry_blippi_customized_c_65.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/butterscotch-cake.jpg",
+    "alt_text": "butterscotch cake by - Nillavee Cakes And Pastries",
+    "cake_name": "butterscotch cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "butterscotch_cake_by_-_Nillavee_Cakes_An_66.jpg",
+    "local_path": "images/butterscotch_cake_by_-_Nillavee_Cakes_An_66.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/carrot-cake-updated-1721366609.png",
+    "alt_text": "carrot cake by - Nillavee Cakes And Pastries",
+    "cake_name": "carrot cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "carrot_cake_by_-_Nillavee_Cakes_And_Past_67.png",
+    "local_path": "images/carrot_cake_by_-_Nillavee_Cakes_And_Past_67.png"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/chiffon-cake.jpg",
+    "alt_text": "chiffon cake by - Nillavee Cakes And Pastries",
+    "cake_name": "chiffon cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "chiffon_cake_by_-_Nillavee_Cakes_And_Pas_68.jpg",
+    "local_path": "images/chiffon_cake_by_-_Nillavee_Cakes_And_Pas_68.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/chocolate-birthday-cake.webp",
+    "alt_text": "chocolate birthday cake by - Nillavee Cakes And Pastries",
+    "cake_name": "chocolate birthday cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "chocolate_birthday_cake_by_-_Nillavee_Ca_69.jpg",
+    "local_path": "images/chocolate_birthday_cake_by_-_Nillavee_Ca_69.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/chocolate-caramel-cake.jpg",
+    "alt_text": "chocolate caramel cake by - Nillavee Cakes And Pastries",
+    "cake_name": "chocolate caramel cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "chocolate_caramel_cake_by_-_Nillavee_Cak_70.jpg",
+    "local_path": "images/chocolate_caramel_cake_by_-_Nillavee_Cak_70.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/chocolate-marble-cake-updated-1729589202.jpg",
+    "alt_text": "chocolate marble cake by - Nillavee Cakes And Pastries",
+    "cake_name": "chocolate marble cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "chocolate_marble_cake_by_-_Nillavee_Cake_71.jpg",
+    "local_path": "images/chocolate_marble_cake_by_-_Nillavee_Cake_71.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/chocolate-mousse-cake.jpg",
+    "alt_text": "chocolate mousse cake by - Nillavee Cakes And Pastries",
+    "cake_name": "chocolate mousse cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "chocolate_mousse_cake_by_-_Nillavee_Cake_72.jpg",
+    "local_path": "images/chocolate_mousse_cake_by_-_Nillavee_Cake_72.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/chocolate-orange-cake.jpg",
+    "alt_text": "chocolate orange cake by - Nillavee Cakes And Pastries",
+    "cake_name": "chocolate orange cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "chocolate_orange_cake_by_-_Nillavee_Cake_73.jpg",
+    "local_path": "images/chocolate_orange_cake_by_-_Nillavee_Cake_73.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/chocolate-truffle-cake-updated-1729587609.jpg",
+    "alt_text": "chocolate truffle cake by - Nillavee Cakes And Pastries",
+    "cake_name": "chocolate truffle cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "chocolate_truffle_cake_by_-_Nillavee_Cak_74.jpg",
+    "local_path": "images/chocolate_truffle_cake_by_-_Nillavee_Cak_74.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/chocolate-zucchini-cake.jpg",
+    "alt_text": "chocolate zucchini cake by - Nillavee Cakes And Pastries",
+    "cake_name": "chocolate zucchini cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "chocolate_zucchini_cake_by_-_Nillavee_Ca_75.jpg",
+    "local_path": "images/chocolate_zucchini_cake_by_-_Nillavee_Ca_75.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/cinnamon-cake.jpg",
+    "alt_text": "cinnamon cake by - Nillavee Cakes And Pastries",
+    "cake_name": "cinnamon cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "cinnamon_cake_by_-_Nillavee_Cakes_And_Pa_76.jpg",
+    "local_path": "images/cinnamon_cake_by_-_Nillavee_Cakes_And_Pa_76.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/coco-cake.jpeg",
+    "alt_text": "coco cake by - Nillavee Cakes And Pastries",
+    "cake_name": "coco cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "coco_cake_by_-_Nillavee_Cakes_And_Pastri_77.jpeg",
+    "local_path": "images/coco_cake_by_-_Nillavee_Cakes_And_Pastri_77.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/cocomelon-theme-cake.jpg",
+    "alt_text": "cocomelon theme cake by - Nillavee Cakes And Pastries",
+    "cake_name": "cocomelon theme cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "cocomelon_theme_cake_by_-_Nillavee_Cakes_78.jpg",
+    "local_path": "images/cocomelon_theme_cake_by_-_Nillavee_Cakes_78.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/coconut-cake.jpeg",
+    "alt_text": "coconut cake by - Nillavee Cakes And Pastries",
+    "cake_name": "coconut cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "coconut_cake_by_-_Nillavee_Cakes_And_Pas_79.jpeg",
+    "local_path": "images/coconut_cake_by_-_Nillavee_Cakes_And_Pas_79.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/coconut-caramel-cake.jpg",
+    "alt_text": "coconut caramel cake by - Nillavee Cakes And Pastries",
+    "cake_name": "coconut caramel cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "coconut_caramel_cake_by_-_Nillavee_Cakes_80.jpg",
+    "local_path": "images/coconut_caramel_cake_by_-_Nillavee_Cakes_80.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/coffee-cake.png",
+    "alt_text": "coffee cake by - Nillavee Cakes And Pastries",
+    "cake_name": "coffee cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "coffee_cake_by_-_Nillavee_Cakes_And_Past_81.png",
+    "local_path": "images/coffee_cake_by_-_Nillavee_Cakes_And_Past_81.png"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/confetti-cake.jpg",
+    "alt_text": "confetti cake by - Nillavee Cakes And Pastries",
+    "cake_name": "confetti cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "confetti_cake_by_-_Nillavee_Cakes_And_Pa_82.jpg",
+    "local_path": "images/confetti_cake_by_-_Nillavee_Cakes_And_Pa_82.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/cotton-candy-cake.jpg",
+    "alt_text": "cotton candy cake by - Nillavee Cakes And Pastries",
+    "cake_name": "cotton candy cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "cotton_candy_cake_by_-_Nillavee_Cakes_An_83.jpg",
+    "local_path": "images/cotton_candy_cake_by_-_Nillavee_Cakes_An_83.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/crunchy-chocolate-fudge-cake.jpeg",
+    "alt_text": "crunchy chocolate fudge cake by - Nillavee Cakes And Pastries",
+    "cake_name": "crunchy chocolate fudge cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "crunchy_chocolate_fudge_cake_by_-_Nillav_84.jpeg",
+    "local_path": "images/crunchy_chocolate_fudge_cake_by_-_Nillav_84.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/devils-food-cake.webp",
+    "alt_text": "devil's food cake by - Nillavee Cakes And Pastries",
+    "cake_name": "devil's food cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "devils_food_cake_by_-_Nillavee_Cakes_An_85.jpg",
+    "local_path": "images/devils_food_cake_by_-_Nillavee_Cakes_An_85.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/eggless-cake.jpg",
+    "alt_text": "eggless cake by - Nillavee Cakes And Pastries",
+    "cake_name": "eggless cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "eggless_cake_by_-_Nillavee_Cakes_And_Pas_86.jpg",
+    "local_path": "images/eggless_cake_by_-_Nillavee_Cakes_And_Pas_86.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/eggless-chocolate-cake.jpg",
+    "alt_text": "eggless chocolate cake by - Nillavee Cakes And Pastries",
+    "cake_name": "eggless chocolate cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "eggless_chocolate_cake_by_-_Nillavee_Cak_87.jpg",
+    "local_path": "images/eggless_chocolate_cake_by_-_Nillavee_Cak_87.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/ferrero-rocher-cake.webp",
+    "alt_text": "ferrero rocher cake by - Nillavee Cakes And Pastries",
+    "cake_name": "ferrero rocher cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "ferrero_rocher_cake_by_-_Nillavee_Cakes_88.jpg",
+    "local_path": "images/ferrero_rocher_cake_by_-_Nillavee_Cakes_88.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/flourless-chocolate-cake.jpg",
+    "alt_text": "flourless chocolate cake by - Nillavee Cakes And Pastries",
+    "cake_name": "flourless chocolate cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "flourless_chocolate_cake_by_-_Nillavee_C_89.jpg",
+    "local_path": "images/flourless_chocolate_cake_by_-_Nillavee_C_89.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/fondant-graduation-cake.jpeg",
+    "alt_text": "fondant graduation cake by - Nillavee Cakes And Pastries",
+    "cake_name": "fondant graduation cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "fondant_graduation_cake_by_-_Nillavee_Ca_90.jpeg",
+    "local_path": "images/fondant_graduation_cake_by_-_Nillavee_Ca_90.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/frozen-cake.webp",
+    "alt_text": "frozen cake by - Nillavee Cakes And Pastries",
+    "cake_name": "frozen cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "frozen_cake_by_-_Nillavee_Cakes_And_Past_91.jpg",
+    "local_path": "images/frozen_cake_by_-_Nillavee_Cakes_And_Past_91.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/gender-reveal-cake.jpg",
+    "alt_text": "gender reveal cake by - Nillavee Cakes And Pastries",
+    "cake_name": "gender reveal cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "gender_reveal_cake_by_-_Nillavee_Cakes_A_92.jpg",
+    "local_path": "images/gender_reveal_cake_by_-_Nillavee_Cakes_A_92.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/german-chocolate-cake.37QZoGVGerman-Chocolate",
+    "alt_text": "german chocolate cake by - Nillavee Cakes And Pastries",
+    "cake_name": "german chocolate cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "german_chocolate_cake_by_-_Nillavee_Cake_93.jpg",
+    "local_path": "images/german_chocolate_cake_by_-_Nillavee_Cake_93.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/gluten-free-almond-cake.webp",
+    "alt_text": "gluten free almond cake by - Nillavee Cakes And Pastries",
+    "cake_name": "gluten free almond cake by - Nillavee Cakes And Pastries",
+    "downloaded": false,
+    "filename": null
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/gluten-free-chocolate-cake.jpg",
+    "alt_text": "gluten free chocolate cake by - Nillavee Cakes And Pastries",
+    "cake_name": "gluten free chocolate cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "gluten_free_chocolate_cake_by_-_Nillavee_95.jpg",
+    "local_path": "images/gluten_free_chocolate_cake_by_-_Nillavee_95.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/graduation-bubble-cake.jpeg",
+    "alt_text": "graduation bubble cake by - Nillavee Cakes And Pastries",
+    "cake_name": "graduation bubble cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "graduation_bubble_cake_by_-_Nillavee_Cak_96.jpeg",
+    "local_path": "images/graduation_bubble_cake_by_-_Nillavee_Cak_96.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/honey-almond-cake.jpg",
+    "alt_text": "honey almond cake by - Nillavee Cakes And Pastries",
+    "cake_name": "honey almond cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "honey_almond_cake_by_-_Nillavee_Cakes_An_97.jpg",
+    "local_path": "images/honey_almond_cake_by_-_Nillavee_Cakes_An_97.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/honey-cinnamon-cake.jpg",
+    "alt_text": "honey cinnamon cake by - Nillavee Cakes And Pastries",
+    "cake_name": "honey cinnamon cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "honey_cinnamon_cake_by_-_Nillavee_Cakes_98.jpg",
+    "local_path": "images/honey_cinnamon_cake_by_-_Nillavee_Cakes_98.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/ice-cream-cake.jpg",
+    "alt_text": "ice cream cake by - Nillavee Cakes And Pastries",
+    "cake_name": "ice cream cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "ice_cream_cake_by_-_Nillavee_Cakes_And_P_99.jpg",
+    "local_path": "images/ice_cream_cake_by_-_Nillavee_Cakes_And_P_99.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/kiondo-cake.webp",
+    "alt_text": "kiondo cake by - Nillavee Cakes And Pastries",
+    "cake_name": "kiondo cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "kiondo_cake_by_-_Nillavee_Cakes_And_Past_100.jpg",
+    "local_path": "images/kiondo_cake_by_-_Nillavee_Cakes_And_Past_100.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/lemon-coconut-cake.jpg",
+    "alt_text": "lemon coconut cake by - Nillavee Cakes And Pastries",
+    "cake_name": "lemon coconut cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "lemon_coconut_cake_by_-_Nillavee_Cakes_A_101.jpg",
+    "local_path": "images/lemon_coconut_cake_by_-_Nillavee_Cakes_A_101.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/manchester-united-cake.jpg",
+    "alt_text": "manchester united cake by - Nillavee Cakes And Pastries",
+    "cake_name": "manchester united cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "manchester_united_cake_by_-_Nillavee_Cak_102.jpg",
+    "local_path": "images/manchester_united_cake_by_-_Nillavee_Cak_102.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/marble-graduation-cake-updated-1730789041.jpeg",
+    "alt_text": "marble graduation cake by - Nillavee Cakes And Pastries",
+    "cake_name": "marble graduation cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "marble_graduation_cake_by_-_Nillavee_Cak_103.jpeg",
+    "local_path": "images/marble_graduation_cake_by_-_Nillavee_Cak_103.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/metropolitan-cake-with-vanilla-1.webp",
+    "alt_text": "metropolitan cake with vanilla by - Nillavee Cakes And Pastries",
+    "cake_name": "metropolitan cake with vanilla by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "metropolitan_cake_with_vanilla_by_-_Nill_104.jpg",
+    "local_path": "images/metropolitan_cake_with_vanilla_by_-_Nill_104.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/moana-cake.jpeg",
+    "alt_text": "moana cake by - Nillavee Cakes And Pastries",
+    "cake_name": "moana cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "moana_cake_by_-_Nillavee_Cakes_And_Pastr_105.jpeg",
+    "local_path": "images/moana_cake_by_-_Nillavee_Cakes_And_Pastr_105.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/naked-chocolate-cake.jpg",
+    "alt_text": "naked chocolate cake by - Nillavee Cakes And Pastries",
+    "cake_name": "naked chocolate cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "naked_chocolate_cake_by_-_Nillavee_Cakes_106.jpg",
+    "local_path": "images/naked_chocolate_cake_by_-_Nillavee_Cakes_106.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/naked-vanilla-cake.jpg",
+    "alt_text": "naked vanilla cake by - Nillavee Cakes And Pastries",
+    "cake_name": "naked vanilla cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "naked_vanilla_cake_by_-_Nillavee_Cakes_A_107.jpg",
+    "local_path": "images/naked_vanilla_cake_by_-_Nillavee_Cakes_A_107.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/olaf-birthday-cake.jpg",
+    "alt_text": "olaf birthday cake by - Nillavee Cakes And Pastries",
+    "cake_name": "olaf birthday cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "olaf_birthday_cake_by_-_Nillavee_Cakes_A_108.jpg",
+    "local_path": "images/olaf_birthday_cake_by_-_Nillavee_Cakes_A_108.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/orange-almond-cake.jpg",
+    "alt_text": "orange almond cake by - Nillavee Cakes And Pastries",
+    "cake_name": "orange almond cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "orange_almond_cake_by_-_Nillavee_Cakes_A_109.jpg",
+    "local_path": "images/orange_almond_cake_by_-_Nillavee_Cakes_A_109.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/oreo-cheese-cake.37QZoGVOreo-Cheesecake",
+    "alt_text": "oreo cheese cake by - Nillavee Cakes And Pastries",
+    "cake_name": "oreo cheese cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "oreo_cheese_cake_by_-_Nillavee_Cakes_And_110.jpg",
+    "local_path": "images/oreo_cheese_cake_by_-_Nillavee_Cakes_And_110.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/passion-flavoured-cake.jpg",
+    "alt_text": "passion flavoured cake by - Nillavee Cakes And Pastries",
+    "cake_name": "passion flavoured cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "passion_flavoured_cake_by_-_Nillavee_Cak_111.jpg",
+    "local_path": "images/passion_flavoured_cake_by_-_Nillavee_Cak_111.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/passion-flavoured-cake.jpeg",
+    "alt_text": "passion flavoured cake by - Nillavee Cakes And Pastries",
+    "cake_name": "passion flavoured cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "passion_flavoured_cake_by_-_Nillavee_Cak_112.jpeg",
+    "local_path": "images/passion_flavoured_cake_by_-_Nillavee_Cak_112.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/pinacolada-orange-flavour-cake.jpeg",
+    "alt_text": "pinacolada orange flavour cake by - Nillavee Cakes And Pastries",
+    "cake_name": "pinacolada orange flavour cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "pinacolada_orange_flavour_cake_by_-_Nill_113.jpeg",
+    "local_path": "images/pinacolada_orange_flavour_cake_by_-_Nill_113.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/pineapple-cake.jpeg",
+    "alt_text": "pineapple cake by - Nillavee Cakes And Pastries",
+    "cake_name": "pineapple cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "pineapple_cake_by_-_Nillavee_Cakes_And_P_114.jpeg",
+    "local_path": "images/pineapple_cake_by_-_Nillavee_Cakes_And_P_114.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/princess-birthday-cake.jpg",
+    "alt_text": "princess birthday cake by - Nillavee Cakes And Pastries",
+    "cake_name": "princess birthday cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "princess_birthday_cake_by_-_Nillavee_Cak_115.jpg",
+    "local_path": "images/princess_birthday_cake_by_-_Nillavee_Cak_115.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/purple-velvet-cake.jpeg",
+    "alt_text": "purple velvet cake by - Nillavee Cakes And Pastries",
+    "cake_name": "purple velvet cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "purple_velvet_cake_by_-_Nillavee_Cakes_A_116.jpeg",
+    "local_path": "images/purple_velvet_cake_by_-_Nillavee_Cakes_A_116.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/raspberry-graduation-cake.jpeg",
+    "alt_text": "raspberry graduation cake by - Nillavee Cakes And Pastries",
+    "cake_name": "raspberry graduation cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "raspberry_graduation_cake_by_-_Nillavee_117.jpeg",
+    "local_path": "images/raspberry_graduation_cake_by_-_Nillavee_117.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/red-velvet-cake-with-a-touch-of-gold-splash.jpeg",
+    "alt_text": "red velvet cake with a touch of gold splash by - Nillavee Cakes And Pastries",
+    "cake_name": "red velvet cake with a touch of gold splash by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "red_velvet_cake_with_a_touch_of_gold_spl_118.jpeg",
+    "local_path": "images/red_velvet_cake_with_a_touch_of_gold_spl_118.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/red-velvet-chocolate-cake-updated-1716300263.jpg",
+    "alt_text": "red velvet chocolate cake by - Nillavee Cakes And Pastries",
+    "cake_name": "red velvet chocolate cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "red_velvet_chocolate_cake_by_-_Nillavee_119.jpg",
+    "local_path": "images/red_velvet_chocolate_cake_by_-_Nillavee_119.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/rich-fruit-pound-cake.jpeg",
+    "alt_text": "rich fruit pound cake by - Nillavee Cakes And Pastries",
+    "cake_name": "rich fruit pound cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "rich_fruit_pound_cake_by_-_Nillavee_Cake_120.jpeg",
+    "local_path": "images/rich_fruit_pound_cake_by_-_Nillavee_Cake_120.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/ruracio-cake.jpeg",
+    "alt_text": "ruracio cake by - Nillavee Cakes And Pastries",
+    "cake_name": "ruracio cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "ruracio_cake_by_-_Nillavee_Cakes_And_Pas_121.jpeg",
+    "local_path": "images/ruracio_cake_by_-_Nillavee_Cakes_And_Pas_121.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/salted-caramel-cake.jpg",
+    "alt_text": "salted caramel cake by - Nillavee Cakes And Pastries",
+    "cake_name": "salted caramel cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "salted_caramel_cake_by_-_Nillavee_Cakes_122.jpg",
+    "local_path": "images/salted_caramel_cake_by_-_Nillavee_Cakes_122.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/sophia-the-first-cake.png",
+    "alt_text": "sophia the first cake by - Nillavee Cakes And Pastries",
+    "cake_name": "sophia the first cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "sophia_the_first_cake_by_-_Nillavee_Cake_123.png",
+    "local_path": "images/sophia_the_first_cake_by_-_Nillavee_Cake_123.png"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/sponge-cake.jpeg",
+    "alt_text": "sponge cake by - Nillavee Cakes And Pastries",
+    "cake_name": "sponge cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "sponge_cake_by_-_Nillavee_Cakes_And_Past_124.jpeg",
+    "local_path": "images/sponge_cake_by_-_Nillavee_Cakes_And_Past_124.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/strawberry-cake-with-strawberry-fillings.jpeg",
+    "alt_text": "strawberry cake with strawberry fillings by - Nillavee Cakes And Pastries",
+    "cake_name": "strawberry cake with strawberry fillings by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "strawberry_cake_with_strawberry_fillings_125.jpeg",
+    "local_path": "images/strawberry_cake_with_strawberry_fillings_125.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/strawberry-graduation-cake.jpeg",
+    "alt_text": "strawberry graduation cake by - Nillavee Cakes And Pastries",
+    "cake_name": "strawberry graduation cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "strawberry_graduation_cake_by_-_Nillavee_126.jpeg",
+    "local_path": "images/strawberry_graduation_cake_by_-_Nillavee_126.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/strawberry-shortcake.jpeg",
+    "alt_text": "strawberry shortcake by - Nillavee Cakes And Pastries",
+    "cake_name": "strawberry shortcake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "strawberry_shortcake_by_-_Nillavee_Cakes_127.jpeg",
+    "local_path": "images/strawberry_shortcake_by_-_Nillavee_Cakes_127.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/superman-cake.jpg",
+    "alt_text": "superman cake by - Nillavee Cakes And Pastries",
+    "cake_name": "superman cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "superman_cake_by_-_Nillavee_Cakes_And_Pa_128.jpg",
+    "local_path": "images/superman_cake_by_-_Nillavee_Cakes_And_Pa_128.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/traditional-cake.jpeg",
+    "alt_text": "traditional cake by - Nillavee Cakes And Pastries",
+    "cake_name": "traditional cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "traditional_cake_by_-_Nillavee_Cakes_And_129.jpeg",
+    "local_path": "images/traditional_cake_by_-_Nillavee_Cakes_And_129.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/unicorn-theme-cake.jpg",
+    "alt_text": "unicorn theme cake by - Nillavee Cakes And Pastries",
+    "cake_name": "unicorn theme cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "unicorn_theme_cake_by_-_Nillavee_Cakes_A_130.jpg",
+    "local_path": "images/unicorn_theme_cake_by_-_Nillavee_Cakes_A_130.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/vanilla-blueberry-graduation-cake.jpeg",
+    "alt_text": "vanilla blueberry graduation cake by - Nillavee Cakes And Pastries",
+    "cake_name": "vanilla blueberry graduation cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "vanilla_blueberry_graduation_cake_by_-_N_131.jpeg",
+    "local_path": "images/vanilla_blueberry_graduation_cake_by_-_N_131.jpeg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/vanilla-marble-cake.jpg",
+    "alt_text": "vanilla marble cake by - Nillavee Cakes And Pastries",
+    "cake_name": "vanilla marble cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "vanilla_marble_cake_by_-_Nillavee_Cakes_132.jpg",
+    "local_path": "images/vanilla_marble_cake_by_-_Nillavee_Cakes_132.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/vegan-chocolate-cake.jpg",
+    "alt_text": "vegan chocolate cake by - Nillavee Cakes And Pastries",
+    "cake_name": "vegan chocolate cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "vegan_chocolate_cake_by_-_Nillavee_Cakes_133.jpg",
+    "local_path": "images/vegan_chocolate_cake_by_-_Nillavee_Cakes_133.jpg"
+  },
+  {
+    "image_url": "https://cake.nillavee.co.ke//imgs/products/vegan-vanilla-cake.jpg",
+    "alt_text": "vegan vanilla cake by - Nillavee Cakes And Pastries",
+    "cake_name": "vegan vanilla cake by - Nillavee Cakes And Pastries",
+    "downloaded": true,
+    "filename": "vegan_vanilla_cake_by_-_Nillavee_Cakes_A_134.jpg",
+    "local_path": "images/vegan_vanilla_cake_by_-_Nillavee_Cakes_A_134.jpg"
+  }
+]

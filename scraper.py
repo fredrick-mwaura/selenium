@@ -301,12 +301,20 @@ def main():
 
         if cakes_data:
 
+            # Download all images
+            print("\nStarting image downloads...")
+            scraper.download_all_images('images')
+
+            # Save data to JSON
+            scraper.save_data('cakes.json')
+            
             # Display summary
             scraper.display_summary()
 
             # Print location of files
             print(f"\nFiles saved in:")
             print(f"- Images: images/ folder")
+            print(f"- Data: cakes.json")
         else:
             print("No cakes data was scraped")
 
